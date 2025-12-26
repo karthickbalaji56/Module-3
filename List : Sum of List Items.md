@@ -9,9 +9,17 @@ To write a Python program that calculates the **sum of all elements** in a list.
 3. Print the result.
 
 ## 🧾 Program
-
-Add code here
+```
+items=[1,6,4,7,8,9,5,3]
+sum_numbers=0
+for x in items:
+       sum_numbers+=x
+print(sum_numbers)
+```
 
 ## Output
+<img width="815" height="102" alt="image" src="https://github.com/user-attachments/assets/03e21502-7b80-4aa4-b9cc-973d9de1b731" />
 
 ## Result
+The program successfully creates sum of all elements in list
+
